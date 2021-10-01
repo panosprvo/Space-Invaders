@@ -1,2 +1,2 @@
 # space-invaders
-The classic space invaders games built using PyCharm
+The classic space invaders game - built using PyCharm
